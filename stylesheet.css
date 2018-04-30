@@ -1,0 +1,41 @@
+body{
+    margin: 20px;
+    margin-top: 40px;
+  }
+.coverpic{
+    margin: 0 auto;
+    padding: 15px;
+}
+#bio{
+    font-family: Nunito;
+    font-size:20px;
+}
+h3{
+    padding-bottom: 5px;
+}
+footer{
+  font-family: Verdana, Geneva, sans-serif;
+  font-size:20px;
+  margin: 20px;
+}
+.lead{
+    font-weight: 900;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.row .col-md-7{
+    color: dimgrey;
+    padding: 40px 40px;
+}
+.row .col-md-5{
+    padding: 40px 40px;
+    display: inline-block;
+    margin: auto;
+}
+li{
+    margin-bottom: 5px;
+}
+strong{
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: 500;
+    font-size: 1.2em;
+}
